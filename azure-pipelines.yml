@@ -11,9 +11,9 @@ pool:
 
 steps:
 - script: echo Hello, world!
-  displayName: 'Run a one-line script of Sheikh Ali'
+  displayName: 'Run a one-line script of Sheikh Alibaba'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script by Sheikh Ali Akhtar'
+  displayName: 'Run a multi-line script by Sheikh Alibaba'
